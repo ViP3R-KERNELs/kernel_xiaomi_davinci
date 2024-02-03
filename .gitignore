@@ -83,6 +83,7 @@ modules.builtin
 include/config
 include/generated
 arch/*/include/generated
+kali-nethunter-kernel
 
 # stgit generated dirs
 patches-*
